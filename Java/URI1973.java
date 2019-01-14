@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*/import java.util.Scanner;
 public class URI1973{
     public static void main(String[]args){
         Scanner input = new Scanner(System.in);
@@ -45,4 +45,4 @@ public class URI1973{
 
         System.out.printf("%d %d\n",roubados,sobra);
     }
-}
+}*/
